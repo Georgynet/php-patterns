@@ -1,2 +1,2 @@
-php-patterns
+PHP patterns
 ============
